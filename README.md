@@ -16,4 +16,4 @@ This resource contains 3000 student feedback data that have been annotated for a
 Each Annotated_part_# folders contain three files. Those are in XMI, XML, and ZIP formats. 
 XMI files contain the annotated student feedback data and XML files contain tagsets used for annotation.
 
-Find the code for reading data from XML and XMI files here: https://github.com/KushanChamindu/Student_feedback_analysis_dataset
+Find the code for reading data from XML and XMI files here: https://github.com/KushanChamindu/Student_feedback_analysis_dataset/code_for_read_annotaed_data.py
