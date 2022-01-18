@@ -2,7 +2,7 @@
 ## Annotated Student Feedback
 This resource contains 3000 student feedback data that have been annotated for aspect terms, opinion terms, polarities of the opinion terms towards targeted aspects, document-level opinion polarities, and sentence separations.
 
-### Folder Structure of the resource;
+### Folder Structure of the resource,
 
 ```bash
     └───Annotated Student Feedback Data
