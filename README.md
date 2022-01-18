@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# README 
+>>>>>>> aeb90b06923ef7c5a1c636f2a32335d64eb9fef9
 ## Annotated Student Feedback
 This resource contains 3000 student feedback data that have been annotated for aspect terms, opinion terms, polarities of the opinion terms towards targeted aspects, document-level opinion polarities, and sentence separations.
 
